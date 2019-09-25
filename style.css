@@ -21,7 +21,11 @@ h1 {
 
 #message {
     display: inline-block;
-    width: 20%;
+    width: 30%;    
+    background-color: #232323;
+    color: steelblue;
+    font-weight: bold;
+    border-radius: 15px;
 }
 
 button {
@@ -68,5 +72,5 @@ button:hover {
 
 #stripe{
     background: whitesmoke;
-    height: 30px;    
+    height: 40px;    
 }
